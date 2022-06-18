@@ -6,7 +6,7 @@ This website was built as part of the learning material for Code Institute's Ful
 
 A lot of experimentation, trial, and at times, mostly error.  
 
-You can check out the website 
+You can check out the website [here](https://github.com/johnk2022/Project-Jin)
 
 ## Project Description
 
@@ -23,7 +23,10 @@ Anyone who likes simple games with a nostalgic retro touch
 
 ## Technology
 
-This project was written using Java Script, HTML & CSS.  It is currently hosted on GitHub pages [here] new link
+This project was written using Java Script, HTML & CSS.  It is currently hosted on GitHub pages 
+[here](https://github.com/johnk2022/Project-Jin)
+
+
 
 ## Code Verified
 validator.w3.org - ?? 2022
@@ -31,9 +34,9 @@ jigsaw.w3.org/css-validator - ?? 2022
 
 ## Project Wireframe
 
-![index.png]index.png 
-![game.png]game.png 
-![hiscore.png]hiscore.png 
+![index.png](index.png)
+![game.png](game.png)
+![hiscore.png](hiscores.png)
 
 
 ## Credits
