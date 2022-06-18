@@ -26,18 +26,21 @@ Anyone who likes simple games with a nostalgic retro touch
 This project was written using Java Script, HTML & CSS.  It is currently hosted on GitHub pages [here] new link
 
 ## Code Verified
-validator.w3.org - May 02 2022
-jigsaw.w3.org/css-validator - May 02 2022
+validator.w3.org - ?? 2022
+jigsaw.w3.org/css-validator - ?? 2022
 
 ## Project Wireframe
 
-![Wireframe]
+![index.png]index.png 
+![game.png]game.png 
+![hiscore.png]hiscore.png 
+
 
 ## Credits
 
 GitHub for the development tools and website hosting.
 
-Google for the fonts.
+Sheldon for the Rules
 
 Java Script code taken from taken from YouTubers Code with Ania Kubów and whatsdev Tenzin
 
@@ -46,8 +49,8 @@ Star Wars rolling text from CSS Tricks Geoff Graham https://css-tricks.com/snipp
 CodeInstitute and my fellow students for the assistance, encouragement and general moral boosters.
 
 ## Version History
-
-
+Created Rock Paper Scissors HTML, CSS & JS
+18/06/22 added Lizard Spock HTML, CSS & JS
 
 
 ## Bugs
@@ -55,7 +58,11 @@ CodeInstitute and my fellow students for the assistance, encouragement and gener
 
 
 ## Future Development
+Add comments to credit code provided by the YouTubers
+Add facility to record Player1 scores
+Find appropriate fonts
 Add sound
+Add animations
 
 ## FAQ 
 N/A
