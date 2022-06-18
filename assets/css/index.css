@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
     }
 
     body {
@@ -15,7 +15,6 @@
         color: red;
         padding-top: 20px;
         text-align: center;
-        font-family: 'Press Start 2P', cursive;
     }
     
     
@@ -23,7 +22,6 @@
         color: red;
         text-align: center;
         padding-top: 20px;
-        font-family: 'Press Start 2P', cursive;
     }
 
     #fight {

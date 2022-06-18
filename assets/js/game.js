@@ -9,8 +9,8 @@ let paper_div = document.getElementById("Paper");
 let scissors_div = document.getElementById("Scissors");
 
 function getComputerChoice() {
-    let choices = ["Rock", "Paper", "Scissors"];
-    let randomNumber = Math.floor(Math.random () * 3);
+    let choices = ["Rock", "Paper", "Scissors", "Lizard", "Spock"];
+    let randomNumber = Math.floor(Math.random () * 5);
     return choices[randomNumber]; 
 }
 
@@ -49,18 +49,34 @@ function game(userChoice) {
         case "RockScissors":
         case "PaperRock":
         case "ScissorsPaper":
+        case "RockLizard":
+        case "LizardSpock":
+        case "SpockScissors":
+        case "ScissorsLizard":
+        case "LizardPaper":
+        case "PaperSpock":
+        case "SpockRock":   
         win(userChoice, computerChoice);
             break;
 
         case "RockPaper":
         case "PaperScissors":
         case "ScissorsRock":
+        case "LizardRock":
+        case "SpockLizard":
+        case "ScissorsSpock":
+        case "LizardScissors":          
+        case "PaperLizard":
+        case "SpockPaper":
+        case "RockSpock":                            
         lose(userChoice, computerChoice);
             break;
 
         case "RockRock":
         case "PaperPaper":
-        case "ScissorsScissors":        
+        case "ScissorsScissors": 
+        case "LizardLizard":
+        case "SpockSpock":       
         draw(userChoice, computerChoice);
             break;        
     }
@@ -72,6 +88,8 @@ function main() {
     document.getElementById("Rock").addEventListener("click", () => game("Rock"));
     document.getElementById("Paper").addEventListener("click", () => game("Paper"));
     document.getElementById("Scissors").addEventListener("click", () => game("Scissors"))
+    document.getElementById("Lizard").addEventListener("click", () => game("Lizard"));
+    document.getElementById("Spock").addEventListener("click", () => game("Spock"));
 }
 
 main();
