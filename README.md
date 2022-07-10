@@ -63,7 +63,7 @@ Text set to White shows as purple on buttons and navigation links ???
 
 
 ## Future Development
-Add comments to credit code provided by the YouTubers
+Set limit for the number of games allowed.  Best of 7 ?
 
 Add facility to record Player1 scores
 
