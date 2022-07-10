@@ -30,6 +30,7 @@ This project was written using Java Script, HTML & CSS.  It is currently hosted 
 
 ## Code Verified
 validator.w3.org - ?? 2022
+
 jigsaw.w3.org/css-validator - ?? 2022
 
 ## Project Wireframe
@@ -54,7 +55,7 @@ Created Rock Paper Scissors HTML, CSS & JS
 
 18/06/22 added Lizard Spock HTML, CSS & JS
 
-10/07/22 Add rules.  Adjust font sizes. Add rules. Add wireframe.
+10/07/22 Add rules.  Adjust font sizes. Add wireframe. Upsate README.md
 
 
 ## Bugs
@@ -63,9 +64,13 @@ Text set to White shows as purple on buttons and navigation links ???
 
 ## Future Development
 Add comments to credit code provided by the YouTubers
+
 Add facility to record Player1 scores
+
 Find appropriate/retro fonts
+
 Add sound
+
 Add animations
 
 ## FAQ 
@@ -75,4 +80,4 @@ N/A
 Happy coding!
 
 johnk2022
-June 2022
+July 2022
