@@ -57,13 +57,13 @@ Created Rock Paper Scissors HTML, CSS & JS
 
 
 ## Bugs
-
+Text set to White shows as purple on buttons and navigation links ???
 
 
 ## Future Development
 Add comments to credit code provided by the YouTubers
 Add facility to record Player1 scores
-Find appropriate fonts
+Find appropriate/retro fonts
 Add sound
 Add animations
 

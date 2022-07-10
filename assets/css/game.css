@@ -6,7 +6,7 @@ box-sizing: border-box;
 
 body {
     font-family: 'Times New Roman', Times, serif;
-    background: url(../images/background.jpg) no-repeat fixed center;
+    background: url(../images/background.jpg) no-repeat fixed center;  
     background-color: black;
 }
 
@@ -15,12 +15,14 @@ header {
 }
 
 #leftheader {
+    color: white;
     float: left;
     padding-left: 20px;
 }
 
 #leftheader:hover {
     color: white;
+    font-weight: bolder;
 }
 
 
@@ -30,8 +32,9 @@ header {
     padding-right: 20px;
 }
 
-#leftheader:hover {
+#rightheader:hover {
     color: white;
+    font-weight: bolder;
 }
 
 .title {
