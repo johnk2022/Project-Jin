@@ -33,7 +33,7 @@ validator.w3.org - ?? 2022
 jigsaw.w3.org/css-validator - ?? 2022
 
 ## Project Wireframe
-![jinwireframe.png](jinwireframe.png)
+![JinWireframe.png](JinWireframe.png)
 
 
 
