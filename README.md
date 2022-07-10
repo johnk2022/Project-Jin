@@ -54,6 +54,7 @@ CodeInstitute and my fellow students for the assistance, encouragement and gener
 ## Version History
 Created Rock Paper Scissors HTML, CSS & JS
 18/06/22 added Lizard Spock HTML, CSS & JS
+10/07/22 Add rules.  Adjust font sizes.
 
 
 ## Bugs
