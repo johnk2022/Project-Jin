@@ -63,7 +63,7 @@ function draw(userChoice, computerChoice) {
 }
 
 /*
-Calculate Win Lose Function
+Calculate Win Lose Draw Function
 */
 
 function game(userChoice) {
