@@ -33,10 +33,10 @@ validator.w3.org - ?? 2022
 jigsaw.w3.org/css-validator - ?? 2022
 
 ## Project Wireframe
-
-![index.png](index.png)
-![game.png](game.png)
-![hiscore.png](hiscores.png)
+![/assets/images/jinwireframe.png](jinwireframe.png)
+![/assets/images/index.png](index.png)
+![/assets/images/game.png](game.png)
+![/assets/images/hiscore.png](hiscores.png)
 
 
 ## Credits
