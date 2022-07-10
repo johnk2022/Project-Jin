@@ -29,9 +29,9 @@ This project was written using Java Script, HTML & CSS.  It is currently hosted 
 
 
 ## Code Verified
-validator.w3.org - ?? 2022
+validator.w3.org - July 2022
 
-jigsaw.w3.org/css-validator - ?? 2022
+jigsaw.w3.org/css-validator - July 2022
 
 ## Project Wireframe
 ![JinWireframe.png](JinWireframe.png)
