@@ -36,6 +36,12 @@
         padding-top: 40px;
     }
 
+    #hiscores {
+        color: white;
+        text-align: center;
+        padding-top: 40px;
+    }
+
     button {
         background-color: black;
         color: white;
@@ -52,6 +58,12 @@
     }
 
     #fight:hover {
+        cursor: pointer;
+        color: white;
+        font-weight: bold;
+    }
+
+    #hiscores:hover {
         cursor: pointer;
         color: white;
         font-weight: bold;
