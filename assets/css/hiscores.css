@@ -8,11 +8,11 @@ body {
   }
 
   header {
-    color: red;
+    color: #feda4a;
 }
 
-header > h1 {
-    color: red;
+ h1 {
+    color: #feda4a;
     text-align: center;
 }
 

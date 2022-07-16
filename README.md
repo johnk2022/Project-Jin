@@ -6,7 +6,7 @@ This website was built as part of the learning material for Code Institute's Ful
 
 A lot of experimentation, trial, and at times, mostly error.  
 
-You can check out the website [here](https://github.com/johnk2022/Project-Jin)
+You can check out the website [here](https://johnk2022.github.io/Project-Jin/)
 
 ## Project Description
 
@@ -30,6 +30,9 @@ This project was written using Java Script, HTML & CSS.  It is currently hosted 
 
 ## Code Verified
 validator.w3.org - July 2022
+Error: The element a must not appear as a descendant of the button element.
+Anchor is a descendant of a button.
+I can't see how to fix this
 
 jigsaw.w3.org/css-validator - July 2022
 

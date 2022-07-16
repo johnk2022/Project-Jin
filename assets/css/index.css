@@ -8,24 +8,24 @@
     body {
         background: url(../images/background.jpg) no-repeat fixed center;
         background-color: black;
-        color: white;
+        color: #feda4a;
     }
     
     header {
-        color: red;
+        color: #feda4a;
         padding-top: 20px;
         text-align: center;
     }
     
     
     h2  {
-        color: red;
+        color: #feda4a;
         text-align: center;
         padding-top: 20px;
     }
 
     h4  {
-        color: white;
+        color: #feda4a;
         text-align: center;
         padding-top: 20px;
     }
